@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @rubensperez23
+- Repositorio del curso FullStack
